@@ -1,2 +1,2 @@
 # About 
-This is Simon Saya Game
+This is Simon Says Game
